@@ -1,0 +1,19 @@
+[config]
+name="Facebook"
+binary="facebook.xcframework"
+
+initialization="register_facebook_types"
+deinitialization="unregister_facebook_types"
+
+[dependencies]
+linked=["./FBSDKCoreKit.xcframework", "./FBSDKLoginKit.xcframework", "./FBSDKShareKit.xcframework", "./FBSDKGamingServicesKit.xcframework",
+	"./FBSDKCoreKit_Basics.xcframework", "./FBAEMKit.xcframework"]
+embedded=[]
+system=[]
+
+capabilities=[]
+
+files=[]
+
+[plist]
+FacebookClientToken:string="INSERT_TOKEN_HERE"
