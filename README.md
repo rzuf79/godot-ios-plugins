@@ -1,7 +1,23 @@
-# Godot iOS plugins
+# Piotr's iOS plugins for Godot
 
-[`master` branch](https://github.com/godotengine/godot-ios-plugins/tree/master) is the current development branch and can introduce breaking changes to plugin's public interface.
-[`3.3` branch](https://github.com/godotengine/godot-ios-plugins/tree/3.3)'s aim is to provide same public interface as it was before the switch to new iOS plugin system.
+[Original repo](https://github.com/godotengine/godot-ios-plugins)
+
+This fork contains iOS plugins that I use for my projects and will keep them up to date as long as I need them.
+Currently supported custom plugins:
+
+## Facebook
+Taken from the amazing [DrMoriarty's repo](https://github.com/DrMoriarty/godot-facebook) and updated to FacebookSDK v13.1.0 and godot 3.5
+
+## ATT
+[DrMoriarty's repo](https://github.com/DrMoriarty/godot-ios-att)
+Updated to work with Godot 3.5
+
+## Firebase Analytics
+[DrMoriarty's repo](https://github.com/DrMoriarty/godot-firebase-analytics)
+Updated to work with Godot 3.5
+
+
+# ORIGINAL README BELOW:
 
 **Note:** iOS plugins are only effective on iOS (either on a physical device or
 in the Xcode simulator). Their singletons will *not* be available when running
