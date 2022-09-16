@@ -262,8 +262,8 @@
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
 				HEADER_SEARCH_PATHS = (
-					"$(SRCROOT)/godot",
-					"$(SRCROOT)/godot/platform/iphone",
+					"$(SRCROOT)/../../godot",
+					"$(SRCROOT)/../../godot/platform/iphone",
 				);
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -300,8 +300,8 @@
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
 				HEADER_SEARCH_PATHS = (
-					"$(SRCROOT)/godot",
-					"$(SRCROOT)/godot/platform/iphone",
+					"$(SRCROOT)/../../godot",
+					"$(SRCROOT)/../../godot/platform/iphone",
 				);
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
