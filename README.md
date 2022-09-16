@@ -9,13 +9,14 @@ Currently supported custom plugins:
 Taken from the amazing [DrMoriarty's repo](https://github.com/DrMoriarty/godot-facebook) and updated to FacebookSDK v13.1.0 and godot 3.5
 
 ## ATT
-[DrMoriarty's repo](https://github.com/DrMoriarty/godot-ios-att)
+[DrMoriarty's repo](https://github.com/DrMoriarty/godot-ios-att) <br/>
 Updated to work with Godot 3.5
 
 ## Firebase Analytics
-[DrMoriarty's repo](https://github.com/DrMoriarty/godot-firebase-analytics)
+[DrMoriarty's repo](https://github.com/DrMoriarty/godot-firebase-analytics) <br/>
 Updated to work with Godot 3.5
 
+<br/><br/><br/><br/><br/>
 
 # ORIGINAL README BELOW:
 
