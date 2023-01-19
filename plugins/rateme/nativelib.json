@@ -1,0 +1,22 @@
+{
+  "name": "rateme",
+  "display_name": "RateMe",
+  "description": "",
+  "version": "1.0.0",
+  "license": "MIT",
+  "url": "https://github.com/YourGitHubName/your_github_repository",
+  "category": "misc",
+  "godot_version": "3.2.4",
+  "author": {
+    "name": "Your Name",
+    "url": "https://your_site.com",
+    "donate": "Url to your donate page, or remove if not needed"
+  },
+  "platform_ios": {
+    "files": {
+      "bin/rateme.debug.xcframework": "ios/plugins/rateme/rateme.debug.xcframework",
+      "bin/rateme.release.xcframework": "ios/plugins/rateme/rateme.release.xcframework",
+      "rateme.gdip": "ios/plugins/rateme/"
+    }
+  }
+}

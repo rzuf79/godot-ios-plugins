@@ -1,0 +1,14 @@
+
+[config]
+name="RateMe"
+binary="rateme.xcframework"
+initialization="rateme_init"
+deinitialization="rateme_deinit"
+
+[dependencies]
+linked=[]
+embedded=[]
+system=[]
+capabilities=[]
+files=[]
+[plist]
