@@ -16,6 +16,11 @@ Updated to work with Godot 3.5
 [DrMoriarty's repo](https://github.com/DrMoriarty/godot-firebase-analytics) <br/>
 Updated to work with Godot 3.5
 
+## Rateme
+Plugin for displaying native rating popus on iOS and Android <br/>
+[DrMoriarty's repo](https://github.com/DrMoriarty/godot-rateme) <br/>
+Updated to work with Godot 3.5
+
 <br/><br/><br/><br/><br/>
 
 # ORIGINAL README BELOW:
